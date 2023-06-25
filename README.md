@@ -1,5 +1,5 @@
-<img src="ttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1vp93NEoBpRnEVIeKIdZCP&ust=1687756537071000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDiyZfV3f8CFQAAAAAdAAAAABAJ" alt="">
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1vp93NEoBpRnEVIeKIdZCP&ust=1687756537071000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDiyZfV3f8CFQAAAAAdAAAAABAJ
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumarutmani&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
