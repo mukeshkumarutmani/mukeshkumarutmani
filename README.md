@@ -10,8 +10,7 @@
 ## 🌐 Connect Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mukeshUtmani/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mukesh_utmani/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-utmani-30b82b20a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/MukeshUtmani) 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/MukeshUtmani)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mukeshkumarutmani&icon=2&color=0)](https://visitcount.itsvg.in)
