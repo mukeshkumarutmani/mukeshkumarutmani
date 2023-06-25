@@ -1,4 +1,4 @@
-
+<img src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.webp" alt="">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumarutmani&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
